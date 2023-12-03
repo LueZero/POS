@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS", "POS\POS.csproj", "{2D1AB05E-EFE6-464D-A6AF-E987DF865422}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-POS", "WPF-POS\WPF-POS.csproj", "{59C47006-39BA-4A5F-872F-90DEC3E0BE2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D1AB05E-EFE6-464D-A6AF-E987DF865422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D1AB05E-EFE6-464D-A6AF-E987DF865422}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D1AB05E-EFE6-464D-A6AF-E987DF865422}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D1AB05E-EFE6-464D-A6AF-E987DF865422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C47006-39BA-4A5F-872F-90DEC3E0BE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C47006-39BA-4A5F-872F-90DEC3E0BE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C47006-39BA-4A5F-872F-90DEC3E0BE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C47006-39BA-4A5F-872F-90DEC3E0BE2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {219501C7-6C13-4CFF-A083-8A500A841431}
+		SolutionGuid = {DE3E1101-0709-4BD7-8748-9F0732C47BF2}
 	EndGlobalSection
 EndGlobal
